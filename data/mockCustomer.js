@@ -1,8 +1,8 @@
 const customer1 = {
-  name: 'Serv Joe Bloggs',
-  dob: 'Serv 12345',
-  uRef: 'Serv 67890',
-  tel: 'Serv 123456789',
+  name: 'Joe Bloggs',
+  dob: '12345',
+  uRef: '67890',
+  tel: '123456789',
   timeWait: '10 mins',
   context: 'I have a query',
   recording: 'Inactive',
