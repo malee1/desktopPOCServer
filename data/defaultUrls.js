@@ -6,6 +6,10 @@ const urls = {
   urlTwo: {
     name: 'UKC',
     url: 'https://www.ukclimbing.com/'
+  },
+   urlThree: {
+    name: 'BMC',
+    url: 'https://www.thebmc.co.uk/'
   }
 };
 
