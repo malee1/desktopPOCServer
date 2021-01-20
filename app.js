@@ -19,7 +19,7 @@ app.get('/', (req, res) => {
 app.post('/getuser', (req, res) => {
     const userId = req.body.fileId;
     const user = findUser(userId);
-    console.log(user)
+    console.log('Get user response: ', user)
     res.send(user);
 })
 
